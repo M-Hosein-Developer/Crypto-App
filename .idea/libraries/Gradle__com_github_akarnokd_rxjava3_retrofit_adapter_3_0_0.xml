@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.akarnokd:rxjava3-retrofit-adapter:3.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava3-retrofit-adapter/3.0.0/a3eba84e392c2d492fb64372fa91273a5ebcb6b1/rxjava3-retrofit-adapter-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava3-retrofit-adapter/3.0.0/eae717525b04429f61733d168697c8e75a25b3f0/rxjava3-retrofit-adapter-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.akarnokd/rxjava3-retrofit-adapter/3.0.0/ba343e6501016016e65c2011cf6ccb12c72a0db1/rxjava3-retrofit-adapter-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
